@@ -11,6 +11,4 @@ jobs:
       - uses: actions/checkout@v2
       - name: Build
         run: |
-          pwd
-          docker-compose up -d
-          docker-compose exec web go test -cover -v
+          go test -v
