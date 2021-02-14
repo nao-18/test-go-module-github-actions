@@ -12,3 +12,4 @@ jobs:
       - name: Build
         run: |
           go test -v
+          go version
