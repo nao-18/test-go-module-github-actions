@@ -1,0 +1,15 @@
+name: go
+
+# ワークフローがキックされるイベントを登録
+on: [push]
+
+jobs:
+  # jobの名前を定義
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Build
+        run: |
+          docker-compose up -d
+          docker-compose exec web go test -cover -v
