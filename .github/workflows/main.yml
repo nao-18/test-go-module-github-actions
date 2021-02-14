@@ -12,4 +12,4 @@ jobs:
       - name: Build
         run: |
           docker-compose up -d --remove-orphans
-          docker-compose exec web go test -cover -v
+          docker-compose exec web go test -cover -v -T
