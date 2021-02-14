@@ -1,0 +1,13 @@
+{"level":"info","ts":1613297314.5977442,"caller":"src/main.go:46","msg":"Hello nifty","key":"value"}
+{"level":"info","ts":1613304384.1510549,"caller":"src/main.go:46","msg":"Hello nifty","key":"value"}
+{"level":"info","ts":1613304388.5530734,"caller":"src/main.go:46","msg":"Hello nifty","key":"value"}
+{"level":"info","ts":1613308400.0007432,"caller":"src/main.go:46","msg":"Hello nifty","key":"value"}
+{"level":"info","ts":1613308402.5023062,"caller":"src/main.go:46","msg":"Hello nifty","key":"value"}
+{"level":"info","ts":1613308424.4504228,"caller":"src/main.go:46","msg":"Hello nifty","key":"value"}
+{"level":"info","ts":1613308425.211753,"caller":"src/main.go:46","msg":"Hello nifty","key":"value"}
+{"level":"info","ts":1613308427.6013818,"caller":"src/main.go:46","msg":"Hello nifty","key":"value"}
+{"level":"info","ts":1613308427.9178474,"caller":"src/main.go:46","msg":"Hello nifty","key":"value"}
+{"level":"info","ts":1613308429.8072865,"caller":"src/main.go:46","msg":"Hello nifty","key":"value"}
+{"level":"info","ts":1613308430.259274,"caller":"src/main.go:46","msg":"Hello nifty","key":"value"}
+{"level":"info","ts":1613308515.037599,"caller":"src/main.go:46","msg":"Hello nifty","key":"value"}
+{"level":"info","ts":1613308515.7716413,"caller":"src/main.go:46","msg":"Hello nifty","key":"value"}
